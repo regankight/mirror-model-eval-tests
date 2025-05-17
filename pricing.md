@@ -24,7 +24,7 @@ This isn’t just prompt cleanup. It’s **behavior QA.**
 - Founders, redteamers, solo tools  
 - Early GPT/Claude-based support bots
 
-📬 Fixed price → [your contact]
+📬 Fixed price → regankight@gmail.com
 
 ---
 
@@ -41,7 +41,7 @@ This isn’t just prompt cleanup. It’s **behavior QA.**
 - LLM teams deploying to real users  
 - QA/safety leads needing reusable logic
 
-💬 Request scoped quote → [your contact]
+💬 Request scoped quote → regankight@gmail.com
 
 ---
 
