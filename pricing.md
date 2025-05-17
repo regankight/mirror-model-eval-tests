@@ -1,54 +1,76 @@
 # 💼 Mirror Model – Prompt Behavior Audit Pricing (2025)
 
-I offer structured evaluations of prompt misfires in LLMs—specifically where outputs sound polite but collapse emotionally: suppressed consent, masked distress, false closure, or failure to defer when unsure.
+I audit emotionally unsafe LLM responses—where the output sounds polite, but collapses trust:
+
+- Suppressed consent misread as agreement  
+- “Never mind” treated as closure  
+- Shame-based inputs skipped entirely  
+- Failure to pause, check, or reroute
+
+This isn’t just prompt cleanup. It’s **behavior QA.**
 
 ---
 
-## 🧪 Tier 1 – Fixed Audit ($200)
+## 🧪 Tier 1 – Fixed Audit ($500)
 
-**Scope:**  
+**What you get:**
 - 5 prompt evaluations  
 - Input → output → failure → reroute  
-- Emotional logic tags + ECS scoring  
-- Delivered as PDF in 3–5 days
+- ECS trust scoring (1–4 scale)  
+- Emotional misread tags  
+- PDF delivery in 3–5 days
 
 **Who it’s for:**  
-- Solo founders, prompt QA teams, safety redteamers  
-- Early-stage tools, GPT-powered flows, support bots
+- Founders, redteamers, solo tools  
+- Early GPT/Claude-based support bots
 
-📬 Available anytime → [your email or contact]
-
----
-
-## 🧰 Tier 2 – System Reroute Map *(custom quote)*
-
-**Scope may include:**  
-- 10–20+ prompt reviews  
-- Fallback logic library  
-- Risk-type matrix (deflection, retraction, permission collapse)  
-- Output scoring + reroute prototype  
-- Loom walkthrough or async Q&A
-
-📎 Pricing depends on scope and timeline.  
-💬 Request a quote → [your contact]
+📬 Fixed price → [your contact]
 
 ---
 
-## 🧱 Tier 3 – Behavior Design Layer *(by proposal)*
+## 🧰 Tier 2 – System Reroute Map *(custom quote: $1.2K–$2.5K)*
+
+**What it covers:**
+- 15–25 prompts  
+- Trust-risk tagging (permission collapse, masked surrender, tone drift)  
+- Fallback logic library or tree  
+- ECS matrix for internal reuse  
+- Optional Loom walkthrough
+
+**Who it’s for:**  
+- LLM teams deploying to real users  
+- QA/safety leads needing reusable logic
+
+💬 Request scoped quote → [your contact]
+
+---
+
+## 🧱 Tier 3 – Behavior Layer Design *(proposal-based)*
 
 For teams needing:
-- Internal QA frameworks  
-- Safety reroute scaffolds  
-- Regulated domain tone handling (legal, healthcare, education)  
-- LLM fallback tuning for emotionally ambiguous input
+- Internal safety reroute frameworks  
+- Scorable fallback logic (Markdown/JSON)  
+- Regulated use case tone reviews (health, legal, compliance)  
+- Async system integration (via docs or kits)
 
-📄 Proposal-based.  
-🔐 IP/contractor agreements supported.  
-💼 Let's talk if you're building something sensitive.
+🔐 Includes IP protection / licensing terms  
+📄 Proposal required  
+💼 If your product needs to respond safely when users don’t speak clearly—this is the system audit that helps.
 
 ---
 
-## ✍️ Custom Work Available
+## 📦 Licensing and Reuse
+
+Scoring sheets, fallback response libraries, and test harness formats are licensable.  
+You keep internal usage rights. Contact for custom reuse pricing.
+
+---
+
+## ✍️ Not Sure Where You Fit?
+
+Send a few sample prompts.  
+I’ll recommend the right scope, or audit the first one for free.
+
 
 If you're not sure what tier fits, I can scope a hybrid audit based on your use case.  
 Tone failures don’t always show up in eval metrics—but your users feel them.
