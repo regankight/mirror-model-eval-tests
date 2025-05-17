@@ -27,3 +27,5 @@ This file tracks reroute effectiveness using the Emotional Clarity Score (ECS).
 | Over-Apologetic Request | Shame / low trust | 4 | Names fear, restores safety |
 | Masked Safety Check | Defensive test | 4 | Validates intent, not ability |
 | Defensive Compliance | Reluctant surrender | 4 | Asks again, avoids steamrolling |
+| Polite Miss | Conditional request | 2 | Sounds friendly, fails trust check |
+
