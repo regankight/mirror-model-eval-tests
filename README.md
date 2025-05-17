@@ -60,18 +60,44 @@ Mirror Model scores this response 2/4—it fails to restore trust or defuse sham
 
 ## 💼 Prompt Behavior Audit Service
 
-**Fixed-Price Micro-Audit: $200 for 5 Prompt Failures**
+### 🧪 Tier 1 – Entry Audit ($500)
 
-You send 5 prompts. I deliver:
-- Input → Output → Failure Trace  
-- Emotional logic tag  
-- Safer fallback logic  
-- PDF report in 3–5 days
+- 5 prompt evaluations  
+- Input → output → failure trace  
+- Reroute logic + emotional tags  
+- ECS trust scoring  
+- Delivered in 3–5 days (PDF)
 
-✅ For teams using OpenAI, Claude, Gemini, or custom LLMs.  
-✅ Works for chatbots, internal tools, or user-facing support.
+Best for: solo builders, early tools, eval teams
 
-📬 Contact: [your email or portfolio link]
+---
+
+### 🧰 Tier 2 – System Reroute Map ($1.2K–$2.5K)
+
+- 15–25 prompts  
+- Trust risk tagging  
+- Fallback logic map  
+- ECS scoring matrix  
+- Optional Loom walkthrough
+
+Best for: QA/safety orgs using LLMs in support or compliance
+
+---
+
+### 🧱 Tier 3 – Behavior Layer Audit ($3K–$8K)
+
+- Prompt design + output safety review  
+- Custom reroute rule logic  
+- Reusable QA harness format  
+- ECS failure scoring  
+- Optional risk-specific fallback set
+
+---
+
+### 📦 Licensing Available
+
+Fallback libraries, scoring sheets, and prompt test formats are licensable.  
+Contact for custom terms or multi-use rights.
 
 ---
 
