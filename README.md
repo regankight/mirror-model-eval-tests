@@ -42,6 +42,22 @@ This is suppressed consent, not a clear choice. The user is disengaging under pr
 
 ---
 
+## ⚠️ Includes Failure Cases Too
+
+Not all prompt responses fail obviously. Some sound friendly—but still misread tone.
+
+Example:
+
+> "If it’s not too much trouble, could you explain that again?"
+
+Polite model reply:
+> "Sure! Happy to explain."
+
+**But this skips the hesitation.**  
+Mirror Model scores this response 2/4—it fails to restore trust or defuse shame.
+
+---
+
 ## 💼 Prompt Behavior Audit Service
 
 **Fixed-Price Micro-Audit: $200 for 5 Prompt Failures**
